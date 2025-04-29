@@ -66,6 +66,7 @@ export const LOCALES = [
     { code: "ja", name: "日本語" },
     { code: "nb-NO", name: "Norwegian (bokmål)" },
     { code: "nn-NO", name: "Norwegian (nynorsk)" },
+    { code: "zh", name: "中文"},
 ]
 export const DEFAULT_LOCALE = LOCALES[0].code;
 

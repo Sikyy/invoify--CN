@@ -45,6 +45,8 @@ const FormTextarea = ({
                                     {...field}
                                     placeholder={placeholder}
                                     className="w-[15rem] h-0"
+                                    lang="zh-CN"
+                                    inputMode="text"
                                     {...props}
                                 />
                             </FormControl>

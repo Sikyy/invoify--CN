@@ -48,6 +48,8 @@ const FormInput = ({
                             {...field}
                             placeholder={placeholder}
                             className="w-[13rem]"
+                            lang="zh-CN"
+                            inputMode="text"
                             {...props}
                         />
                     </FormControl>
